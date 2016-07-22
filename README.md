@@ -21,7 +21,7 @@ Polymer element that use boostrap style
 
 Custom property | Description | Default
 ----------------------|-------------|----------
-|`--bs-button` | Mixin applied to the button | `Based on the default bootstrap button`
+|`--bs-button` | Mixin applied to the button | `{}`
 |`--bs-button-active` | Mixin applied to the button when its active, focused or hovered | `{}`
 |`--bs-button-disabled` | Mixin applied to the disabled button | `{}`
 
