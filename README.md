@@ -14,8 +14,8 @@ Polymer element that use boostrap style
 | __disabled__ | Disabled click on the button | Boolean | 'false'|
 | __type__ | Type of the button:[Button, Submit, Reset] | String | 'button'|
 | __bs_style__ | Set different style based on bootstrap button: [default, primary, info, danger, warning] | 'String' | 'default'|
-| __value__ | Indicate the value of the button | ''|
-| __size _ | Set the size of the button based on bootstrap sizes: [lg, md, sm, xm] | 'md' |
+| __value__ | Indicate the value of the button | String | ''|
+| __size__ | Set the size of the button based on bootstrap sizes: [lg, md, sm, xm] | String |md |
 
 ### Styling
 
@@ -35,3 +35,7 @@ install that via:
 Then, go ahead and download the element's dependencies:
 
     bower install
+
+## Install
+
+    bower install --save bs-button
