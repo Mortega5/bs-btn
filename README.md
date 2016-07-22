@@ -1,5 +1,7 @@
 # bs-button
-Polymer element that use boostrap style
+Polymer element that use boostrap style.
+
+[DEMO](https://mortega5.github.io/bs-button/components/bs-button/demo/)
 
 ## Example
 
