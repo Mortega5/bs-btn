@@ -1,0 +1,35 @@
+{
+  "name": "bs-button",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "seed"
+  ],
+  "main": "bs-button.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  },
+  "_release": "c23eb6cf35",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c23eb6cf35675d432e00a56d09c3f2a50892f396"
+  },
+  "_source": "https://github.com/mortega5/bs-button.git",
+  "_target": "master",
+  "_originalSource": "https://github.com/mortega5/bs-button.git",
+  "_direct": true
+}
